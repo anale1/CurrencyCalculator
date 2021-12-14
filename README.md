@@ -1,2 +1,0 @@
-# CurrencyCalculator
-Final Project 
